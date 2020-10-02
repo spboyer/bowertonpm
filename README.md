@@ -2,42 +2,42 @@
 
 We've made some big updates in this release, so it’s **important** that you spend a few minutes to learn what’s new.
 
-ASP.NET 5 has been rearchitected to make it **lean** and **composable**. It's fully **open source** and available on [GitHub](http://go.microsoft.com/fwlink/?LinkID=517854).
-Your new project automatically takes advantage of modern client-side utilities like [Bower](http://go.microsoft.com/fwlink/?LinkId=518004) and [npm](http://go.microsoft.com/fwlink/?LinkId=518005) (to add client-side libraries) and [Gulp](http://go.microsoft.com/fwlink/?LinkId=518007) (for client-side build and automation tasks).
+ASP.NET 5 has been rearchitected to make it **lean** and **composable**. It's fully **open source** and available on [GitHub](https://go.microsoft.com:80/fwlink/?LinkID=517854&WT.mc_id=bowertonpm-github-shboyer).
+Your new project automatically takes advantage of modern client-side utilities like [Bower](https://go.microsoft.com:80/fwlink/?LinkId=518004&WT.mc_id=bowertonpm-github-shboyer) and [npm](https://go.microsoft.com:80/fwlink/?LinkId=518005&WT.mc_id=bowertonpm-github-shboyer) (to add client-side libraries) and [Gulp](https://go.microsoft.com:80/fwlink/?LinkId=518007&WT.mc_id=bowertonpm-github-shboyer) (for client-side build and automation tasks).
 
 We hope you enjoy the new capabilities in ASP.NET 5 and Visual Studio 2015.
 The ASP.NET Team
 
-### You've created a new ASP.NET 5 project. [Learn what's new](http://go.microsoft.com/fwlink/?LinkId=518016)
+### You've created a new ASP.NET 5 project. [Learn what's new](https://go.microsoft.com:80/fwlink/?LinkId=518016&WT.mc_id=bowertonpm-github-shboyer)
 
 ### This application consists of:
 * Sample pages using ASP.NET MVC 6
-* [Gulp](http://go.microsoft.com/fwlink/?LinkId=518007) and [Bower](http://go.microsoft.com/fwlink/?LinkId=518004) for managing client-side resources
-* Theming using [Bootstrap](http://go.microsoft.com/fwlink/?LinkID=398939)
+* [Gulp](https://go.microsoft.com:80/fwlink/?LinkId=518007&WT.mc_id=bowertonpm-github-shboyer) and [Bower](https://go.microsoft.com:80/fwlink/?LinkId=518004&WT.mc_id=bowertonpm-github-shboyer) for managing client-side resources
+* Theming using [Bootstrap](https://go.microsoft.com:80/fwlink/?LinkID=398939&WT.mc_id=bowertonpm-github-shboyer)
 
 #### NEW CONCEPTS
-* [The 'wwwroot' explained](http://go.microsoft.com/fwlink/?LinkId=518008)
-* [Configuration in ASP.NET 5](http://go.microsoft.com/fwlink/?LinkId=518012)
-* [Dependency Injection](http://go.microsoft.com/fwlink/?LinkId=518013)
-* [Razor TagHelpers](http://go.microsoft.com/fwlink/?LinkId=518014)
-* [Manage client packages using Gulp](http://go.microsoft.com/fwlink/?LinkID=517849)
-* [Develop on different platforms](http://go.microsoft.com/fwlink/?LinkID=517850)
+* [The 'wwwroot' explained](https://go.microsoft.com:80/fwlink/?LinkId=518008&WT.mc_id=bowertonpm-github-shboyer)
+* [Configuration in ASP.NET 5](https://go.microsoft.com:80/fwlink/?LinkId=518012&WT.mc_id=bowertonpm-github-shboyer)
+* [Dependency Injection](https://go.microsoft.com:80/fwlink/?LinkId=518013&WT.mc_id=bowertonpm-github-shboyer)
+* [Razor TagHelpers](https://go.microsoft.com:80/fwlink/?LinkId=518014&WT.mc_id=bowertonpm-github-shboyer)
+* [Manage client packages using Gulp](https://go.microsoft.com:80/fwlink/?LinkID=517849&WT.mc_id=bowertonpm-github-shboyer)
+* [Develop on different platforms](https://go.microsoft.com:80/fwlink/?LinkID=517850&WT.mc_id=bowertonpm-github-shboyer)
 
 #### CUSTOMIZE APP
-* [Add Controllers and Views](http://go.microsoft.com/fwlink/?LinkID=398600)
-* [Add Data using EntityFramework](http://go.microsoft.com/fwlink/?LinkID=398602)
-* [Add Authentication using Identity](http://go.microsoft.com/fwlink/?LinkID=398603)
-* [Add real time support using SignalR](http://go.microsoft.com/fwlink/?LinkID=398606)
-* [Add Class library](http://go.microsoft.com/fwlink/?LinkID=398604)
-* [Add Web APIs with MVC 6](http://go.microsoft.com/fwlink/?LinkId=518009)
-* [Add client packages using Bower](http://go.microsoft.com/fwlink/?LinkID=517848)
+* [Add Controllers and Views](https://go.microsoft.com:80/fwlink/?LinkID=398600&WT.mc_id=bowertonpm-github-shboyer)
+* [Add Data using EntityFramework](https://go.microsoft.com:80/fwlink/?LinkID=398602&WT.mc_id=bowertonpm-github-shboyer)
+* [Add Authentication using Identity](https://go.microsoft.com:80/fwlink/?LinkID=398603&WT.mc_id=bowertonpm-github-shboyer)
+* [Add real time support using SignalR](https://go.microsoft.com:80/fwlink/?LinkID=398606&WT.mc_id=bowertonpm-github-shboyer)
+* [Add Class library](https://go.microsoft.com:80/fwlink/?LinkID=398604&WT.mc_id=bowertonpm-github-shboyer)
+* [Add Web APIs with MVC 6](https://go.microsoft.com:80/fwlink/?LinkId=518009&WT.mc_id=bowertonpm-github-shboyer)
+* [Add client packages using Bower](https://go.microsoft.com:80/fwlink/?LinkID=517848&WT.mc_id=bowertonpm-github-shboyer)
 
 #### DEPLOY
-* [Run your app locally](http://go.microsoft.com/fwlink/?LinkID=517851)
-* [Run your app on ASP.NET Core 5](http://go.microsoft.com/fwlink/?LinkID=517852)
-* [Run commands in your 'project.json'](http://go.microsoft.com/fwlink/?LinkID=517853)
-* [Publish to Microsoft Azure Web Sites](http://go.microsoft.com/fwlink/?LinkID=398609)
-* [Publish to the file system](http://go.microsoft.com/fwlink/?LinkId=518019)
+* [Run your app locally](https://go.microsoft.com:80/fwlink/?LinkID=517851&WT.mc_id=bowertonpm-github-shboyer)
+* [Run your app on ASP.NET Core 5](https://go.microsoft.com:80/fwlink/?LinkID=517852&WT.mc_id=bowertonpm-github-shboyer)
+* [Run commands in your 'project.json'](https://go.microsoft.com:80/fwlink/?LinkID=517853&WT.mc_id=bowertonpm-github-shboyer)
+* [Publish to Microsoft Azure Web Sites](https://go.microsoft.com:80/fwlink/?LinkID=398609&WT.mc_id=bowertonpm-github-shboyer)
+* [Publish to the file system](https://go.microsoft.com:80/fwlink/?LinkId=518019&WT.mc_id=bowertonpm-github-shboyer)
 
-We would love to hear your [feedback](http://go.microsoft.com/fwlink/?LinkId=518015)
+We would love to hear your [feedback](https://go.microsoft.com:80/fwlink/?LinkId=518015&WT.mc_id=bowertonpm-github-shboyer)
 #  bowertonpm
